@@ -23,7 +23,7 @@
 ## Usage
 
 - For anyone who looking for a text editor that works offline.
-- checkout demo [here](https://drive.google.com/file/d/14kR6IfY_Rc8kdQ7YQV4OSsZp2RIIaJLL/view)
+- checkout site [here](https://progressive-web-applications-19.onrender.com)
 
 ## License
 
